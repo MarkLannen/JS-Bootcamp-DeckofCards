@@ -1,5 +1,3 @@
-function makeDeck() {}
-
 const cardDeck = {
   deck: [],
   drawnCards: [],
